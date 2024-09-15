@@ -2,15 +2,15 @@
 schemaVersion = "0.0.1"
 
 [package]
-namespace = "SGG_Modding"
+namespace = "MGReturns"
 name = "ENVY"
 versionNumber = "1.1.0"
 description = "A plugin to allow ReturnOfModding plugins greater control of their environment."
-websiteUrl = "https://github.com/SGG-Modding/ENVY"
+websiteUrl = "https://github.com/AndreLouisIssa/RoRR-ENVY"
 containsNsfwContent = false
 
 [package.dependencies]
-Hell2Modding-Hell2Modding = "1.0.28"
+ReturnOfModding-ReturnOfModding = "1.0.38"
 
 [build]
 icon = "./icon.png"
@@ -32,7 +32,7 @@ target = "./"
 
 [publish]
 repository = "https://thunderstore.io"
-communities = [ "hades-ii", ]
+communities = [ "risk-of-rain-returns", ]
 
 [publish.categories]
 hades-ii = [ "libraries", "mods" ]
