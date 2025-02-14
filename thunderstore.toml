@@ -10,7 +10,7 @@ websiteUrl = "https://github.com/AndreLouisIssa/RoRR-ENVY"
 containsNsfwContent = false
 
 [package.dependencies]
-ReturnOfModding-ReturnOfModding = "1.0.38"
+LuaENVY-ENVY = "1.2.0"
 
 [build]
 icon = "./icon.png"
@@ -35,4 +35,4 @@ repository = "https://thunderstore.io"
 communities = [ "risk-of-rain-returns", ]
 
 [publish.categories]
-hades-ii = [ "libraries", "mods" ]
+risk-of-rain-returns = [ "libraries", "mods" ]
