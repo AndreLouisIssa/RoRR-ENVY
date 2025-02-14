@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "MGReturns"
 name = "ENVY"
-versionNumber = "1.1.1"
+versionNumber = "1.2.0"
 description = "A plugin to allow ReturnOfModding plugins greater control of their environment."
 websiteUrl = "https://github.com/AndreLouisIssa/RoRR-ENVY"
 containsNsfwContent = false

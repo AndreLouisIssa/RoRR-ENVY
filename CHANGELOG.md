@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.0] - 2025-02-14
+
 ### Changed
 
 - This plugin redirects to LuaENVY-ENVY, which should be the dependency going forward.
@@ -36,7 +38,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial Thunderstore release.
 
-[unreleased]: https://github.com/AndreLouisIssa/RoRR-ENVY/compare/1.1.1...HEAD
+[unreleased]: https://github.com/AndreLouisIssa/RoRR-ENVY/compare/1.2.0...HEAD
+[1.2.0]: https://github.com/AndreLouisIssa/RoRR-ENVY/compare/1.1.1...1.2.0
 [1.1.1]: https://github.com/AndreLouisIssa/RoRR-ENVY/compare/1.1.0...1.1.1
 [1.1.0]: https://github.com/AndreLouisIssa/RoRR-ENVY/compare/1.1.0...1.1.0
 [1.1.0]: https://github.com/SGG-Modding/ENVY/compare/1.0.1...1.1.0
